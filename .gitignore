@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# System Files
+.DS_Store
+Thumbs.db
+config/production.json
+config/development.json
+config/prod.json
+config/staging.json
+config/local.json
+logs
